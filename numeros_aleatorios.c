@@ -8,7 +8,7 @@ int main(void) {
 	int i;
 	
 	for(i = 0; i < 7; i ++){
-	textcolor(i);
+	textcolor(i+1);
 	printf("%d", rand()%61);
 	sleep(1);
 	//getch();
