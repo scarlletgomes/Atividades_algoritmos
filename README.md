@@ -1,2 +1,2 @@
 # Atividades_algoritmos
-Atividades realizadas na disciplina de algoritmos e programação 
+Atividades realizadas na disciplina de algoritmos e programação estruturada.
